@@ -14,6 +14,10 @@ def load_data():
 
 df = load_data()
 
+dataset = st.sidebar.selectbox(
+    "Select Dataset",
+    ["1st_test"]
+)
 # Sidebar
 st.sidebar.header("Controls")
 feature = st.sidebar.selectbox(
@@ -60,7 +64,7 @@ ax2.legend()
 st.pyplot(fig2)
 
 # -------------------------------
-# 🤖 Model Prediction (Optional)
+# 🤖 Model Prediction
 # -------------------------------
 if "predicted_RUL" in df.columns:
     st.subheader("Predicted Remaining Useful Life")
