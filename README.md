@@ -96,9 +96,13 @@ Interactive dashboard to:
 * Visualize vibration trends
 * Monitor degradation
 * View predictions
+
+---
+
 ## 🔗 Live Demo
 [Streamlit App](https://predictive-maintenance-using-nasa-bearing-dataset-y3urgrwbnkmw.streamlit.app/)
 
+---
 ## 🏆 Skills Demonstrated
 
 * Time-series analysis
