@@ -47,6 +47,11 @@ failure_time = df.loc[failure_idx, "timestamp"]
 st.subheader("Failure Point")
 st.write(f"Estimated Failure Time: {failure_time}")
 
+failure_idx = df["rms"].idxmax()
+failure_time = df.loc[failure_idx, "timestamp"]
+
+ax.axvline(failure_time, linestyle="--", label="Failure Point")
+
 # -------------------------------
 # 🧠 Healthy vs Failing
 # -------------------------------
