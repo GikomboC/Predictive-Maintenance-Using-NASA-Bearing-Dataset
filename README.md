@@ -13,6 +13,9 @@ This project builds a predictive maintenance system using vibration data from ro
 * Sampling Rate: 20 kHz
 * Each file: 20,480 samples (1-second snapshot)
 * Frequency: Recorded every 10 minutes
+* ## Dataset
+The raw dataset is not included due to size.
+Download it here: [[NASA IMS Bearing Dataset link](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset/data)]
 
 ---
 
