@@ -10,7 +10,7 @@ st.title("🔧 Predictive Maintenance Dashboard")
 # Load your processed dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("your_dataset.csv", parse_dates=["timestamp"])
+    return pd.read_csv("data/processed_data_1st_test.csv", parse_dates=["timestamp"])
 
 df = load_data()
 
