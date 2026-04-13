@@ -116,14 +116,14 @@ Interactive dashboard to:
 ## 📁 Project Structure
 
 ```
-nasa-predictive-maintenance/
+predictive-maintenance-nasa-bearings-for-1st-Test/
 │
-├── notebooks/
-├── src/
 ├── app/
 │   └── dashboard.py
-├── outputs/
+├── data/
+│   └── processed_data_1st_test.csv
 ├── README.md
+|--.gitignore
 └── requirements.txt
 ```
 
