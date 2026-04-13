@@ -1,0 +1,4 @@
+NASA_Gears/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
