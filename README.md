@@ -1,4 +1,4 @@
-# 🔧 Predictive Maintenance Using NASA Bearing Dataset for 1st Test
+# 🔧 predictive-maintenance-nasa-bearings-for-1st-Test
 
 ## 📌 Overview
 
