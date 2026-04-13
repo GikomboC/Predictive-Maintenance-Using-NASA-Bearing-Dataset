@@ -139,6 +139,14 @@ Feature engineering transforms raw vibration signals into meaningful insights, e
 
 ---
 
+## 🧠 Key Insight
+
+RMS increases steadily as the bearing degrades, while kurtosis captures early-stage faults through spikes in vibration.
+
+This demonstrates that statistical feature engineering effectively transforms noisy raw signals into interpretable indicators of machine health.
+
+---
+
 ## 👤 Author
 
 Caleb Muriithi Gikombo
