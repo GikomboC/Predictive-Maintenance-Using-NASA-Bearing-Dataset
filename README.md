@@ -97,7 +97,7 @@ Interactive dashboard to:
 * Monitor degradation
 * View predictions
 ## 🔗 Live Demo
-[Streamlit App](https://predictive-maintenance-using-nasa-bearing-dataset-y3urgrwbnkmw.streamlit.app/)---
+[Streamlit App](https://predictive-maintenance-using-nasa-bearing-dataset-y3urgrwbnkmw.streamlit.app/)
 
 ## 🏆 Skills Demonstrated
 
