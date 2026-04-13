@@ -15,7 +15,8 @@ This project builds a predictive maintenance system using vibration data from ro
 * Frequency: Recorded every 10 minutes
 * ## Dataset
 The raw dataset is not included due to size.
-Download it here: [[NASA IMS Bearing Dataset link](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset/data)]
+Download it here: [[NASA IMS Bearing Dataset link]
+(https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset/data)]
 
 ---
 
