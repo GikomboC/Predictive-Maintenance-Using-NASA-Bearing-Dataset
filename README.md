@@ -128,7 +128,7 @@ The Random Forest model maintained high fidelity in tracking the degradation cur
 ![Healthy Vs Failing](images/healthy_v_failing.png)
 
 ## RUL Prediction
-![RUL Prediction](images/predicted_v_actual.png)
+![RUL Prediction](images/predicted_v_actual_RUL.png)
 
 
 ---
