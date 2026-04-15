@@ -119,16 +119,16 @@ The Random Forest model maintained high fidelity in tracking the degradation cur
 ## Visual Outputs
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/gears_dashboard.png)
 
-## Feature Importance
-![Feature Importance](images/feature_importance.png)
+## RMS Degradation
+![RMS Degradation](images/RMS_degradation.png)
 
-## Model Explainability (SHAP)
-![SHAP Plot](images/shap_plot.png)
+## Healthy Vs Failing
+![Healthy Vs Failing](images/healthy_v_failing.png)
 
-## Probability Distribution
-![Probability Distribution](images/probability_distribution.png)
+## RUL Prediction
+![RUL Prediction](images/predicted_v_actual.png)
 
 
 ---
