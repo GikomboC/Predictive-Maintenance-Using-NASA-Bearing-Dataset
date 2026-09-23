@@ -31,8 +31,7 @@ This benchmark dataset is essential for validating:
 - Digital twin and prognostic modeling.
 
 ---
-* 
-The raw dataset is not included due to size.
+* The raw dataset is not included due to size.
 Download it here: [NASA IMS Bearing Dataset](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset/data)
 
 ---
@@ -46,10 +45,10 @@ This system enables:
 - Data-driven maintenance scheduling
 
 Used in:
-- manufacturing plants
-- oil & gas
-- power systems
-- robotics and automation
+- Manufacturing plants
+- Oil & gas
+- Power systems
+- Robotics and automation
 
 ---
 
@@ -63,9 +62,9 @@ Please download it manually from the link above and place it in the appropriate 
 
 ## Problem Statement
 Industrial machines fail unexpectedly, causing:
-- downtime
-- revenue loss
-- maintenance inefficiency
+- Downtime
+- Revenue loss
+- Maintenance inefficiency
 
 Predictive maintenance uses sensor data to anticipate failures before they occur.
 
@@ -133,7 +132,7 @@ The Random Forest model maintained high fidelity in tracking the degradation cur
 
 ---
 
-## 🚀 Streamlit Dashboard
+## Streamlit Dashboard
 
 An interactive deployment for real-time monitoring:
 * Dynamic visualization of vibration trends.
@@ -142,7 +141,7 @@ An interactive deployment for real-time monitoring:
 
 ---
 
-## 🔗 Live Demo:
+## Live Demo:
 [Predictive Maintenance App](https://predictive-maintenance-using-nasa-bearing-dataset-y3urgrwbnkmw.streamlit.app/)
 
 ---
@@ -156,7 +155,7 @@ An interactive deployment for real-time monitoring:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 predictive-maintenance-nasa-bearings-for-1st-Test/
@@ -187,7 +186,7 @@ predictive-maintenance-nasa-bearings-for-1st-Test/
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 
 Feature engineering transforms raw vibration signals into meaningful insights, enabling accurate detection and prediction of machine failure.
 
